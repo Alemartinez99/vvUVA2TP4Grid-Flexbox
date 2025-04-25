@@ -31,7 +31,8 @@
     /* LO MISMO →
     grid-template-rows: 50% 50%; */
     gap: 10px; 
-    width: 50%;
+    width: 100%;
+    max-width: 600px;
     margin: auto;
 }
 
